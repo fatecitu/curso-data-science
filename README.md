@@ -11,11 +11,11 @@ Dada a sua utilização, esta capacitação poderá ser adotada pelos alunos dos
 
 ## 📔 Notebooks Disponíveis
 
-Conversão de Áudio para texto com Whisper
-https://colab.research.google.com/drive/1-qHJOvIEVWVnl12EoS-5vYnQdAYcQY9H?usp=sharing
+[Conversão de Áudio para texto com Whisper]
+(https://colab.research.google.com/drive/1-qHJOvIEVWVnl12EoS-5vYnQdAYcQY9H?usp=sharing)
 
-Geração de Imagens com Tensor Flow
-https://colab.research.google.com/drive/1lEPpIhcXE7hdMsO1lFgDyzDyAqC-UlqB?usp=sharing
+[Geração de Imagens com Tensor Flow]
+(https://colab.research.google.com/drive/1lEPpIhcXE7hdMsO1lFgDyzDyAqC-UlqB?usp=sharing)
 
 
 
