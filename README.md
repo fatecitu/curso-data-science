@@ -11,8 +11,10 @@ Dada a sua utilização, esta capacitação poderá ser adotada pelos alunos dos
 
 ## 📔 Notebooks Disponíveis - (Google Collab)
 
+[Exemplo Encontro 01 - Pandas utilizando dados da CENIPA-Centro de Investigação e Prevenção de Acidentes Aeronáuticos](https://colab.research.google.com/drive/1-o71My61X8MmOGNsgZJiDLUR637ODnZ5?usp=sharing)
+[Exemplo Encontro 01 - Pandera utilizando dados da CENIPA-Centro de Investigação e Prevenção de Acidentes Aeronáuticos](https://colab.research.google.com/drive/1Xj2s14jgzqMQ4sd94LUU_wT0YvkDcJ06?usp=sharing)
+Exemplo Encontro 02 - Algoritmo KNN com a base de dados de flores Íris - Em breve!
 [Conversão de Áudio para texto com Whisper](https://colab.research.google.com/drive/1-qHJOvIEVWVnl12EoS-5vYnQdAYcQY9H?usp=sharing)
-
 [Geração de Imagens com Tensor Flow](https://colab.research.google.com/drive/1lEPpIhcXE7hdMsO1lFgDyzDyAqC-UlqB?usp=sharing)
 
 
